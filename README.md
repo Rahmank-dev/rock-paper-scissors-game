@@ -31,7 +31,7 @@ A fun and interactive Rock Paper Scissors game built using **HTML, CSS, and Java
 3. Run `index.html` in your browser.
 
 ## Live Demo
-Avalaible Soon
+https://rahmank-dev.github.io/rock-paper-scissors-game/
 
 ## What I Learned
 This project helped practice:
